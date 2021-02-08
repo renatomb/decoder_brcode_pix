@@ -31,7 +31,7 @@ p {text-align: center;}
       <label for="brcode" class="form-label">Linha do pix copia-e-cola:</label>
       <textarea class="text-monospace" name="brcode" id="brcodepix" rows="5" cols="100" onclick="this.select()"><?= $_POST["brcode"];?></textarea>
    </div>
-   <p><button type="submit" class="btn btn-primary">Decodificar o BR Code <i class="fas fa-hammer"></i></button>&nbsp;<a href="https://qrcodepix.tk?doacao" class="btn btn-info">Ajude a manter este projeto <i class="fas fa-hand-holding-usd"></i></a>&nbsp;<a href="https://qrcodepix.tk" class="btn btn-info">Gerador de QR Code Pix <i class="fas fa-qrcode"></i></a></p>
+   <p><button type="submit" class="btn btn-primary">Decodificar o BR Code <i class="fas fa-hammer"></i></button>&nbsp;<a href="https://qrcodepix.dinheiro.tech?doacao" class="btn btn-info">Ajude a manter este projeto <i class="fas fa-hand-holding-usd"></i></a>&nbsp;<a href="https://qrcodepix.dinheiro.tech" class="btn btn-info">Gerador de QR Code Pix <i class="fas fa-qrcode"></i></a></p>
    </form>
 </div>
 <?php
