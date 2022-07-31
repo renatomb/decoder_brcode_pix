@@ -6,5 +6,5 @@ Este repositório contém o código fonte do site [decoder.qrcodepix.dinheiro.te
 ## Veja também
 * [Repositório do php_qrcode_pix](https://github.com/renatomb/php_qrcode_pix)
 * Versão online do [Gerador de QRCode do Pix](https://qrcodepix.dinheiro.tech)
-* Versão online do [Decoder do BRCode do Pix](https://decoder.qrcodepix.dinheiro.tech)
+* Versão online do [Decoder do BRCode do Pix](https://decoderpix.dinheiro.tech/)
 * Saiba mais sobre o autor [Renato Monteiro Batista](https://renato.ovh)
